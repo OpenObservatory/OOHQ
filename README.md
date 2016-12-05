@@ -1,4 +1,4 @@
-# Open Observatory Headquarter
+# Open Observatory Headquarters
 
 The purpose of this repository is to aggregate all issues related to the Open Observatory multiverse.
 
